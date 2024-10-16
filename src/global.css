@@ -1,0 +1,5 @@
+/* tudo que for body, root, * ou html entra aqui */
+body {
+  background-color: black;
+    overflow: hidden;
+}
